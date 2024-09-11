@@ -1,0 +1,6 @@
+{{ $sourceImage := .Page.Resources.GetMatch .Destination }}
+{{ $webpImage := $sourceImage.Resize (printf "%dx%d webp" $sourceImage.Width $sourceImage.Height) }}
+<picture>
+  <source srcset="{{ $webpImage.RelPermalink }}" type="image/webp">
+  <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
+</picture>
