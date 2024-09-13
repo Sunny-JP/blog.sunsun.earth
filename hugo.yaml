@@ -2,7 +2,7 @@ baseURL: "https://blog-izmn.hu-tao.work/"
 languageCode: ja-jp
 title: いずもんのひとりごと
 hasCJKLanguage: true
-pagination.pagerSize: 5
+# pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -22,7 +22,7 @@ params:
   author: いずもん
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "2006.01.02"
+  DateFormat: "2006年01月02日"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "いずもんのひとりごと"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -113,24 +113,24 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: posts
-      name: 投稿
-      url: /posts/
-      weight: 10
+#    - identifier: posts
+#      name: 投稿
+#      url: /posts/
+#      weight: 10
     - identifier: search
       name: 検索
       url: /search/
       weight: 12
-    - identifier: categories
-      name: 分類
-      url: /categories/
-      weight: 15
+#    - identifier: categories
+#      name: 分類
+#      url: /categories/
+#      weight: 15
     - identifier: tags
-      name: 付札
+      name: タグ
       url: /tags/
       weight: 20
     - identifier: archives
-      name: 記録
+      name: 月別
       url: /archives/
       weight: 25
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
@@ -146,6 +146,7 @@ markup:
 
 
 defaultContentLanguage: ja
+enableEmoji: true
 
 outputs:
   home:
