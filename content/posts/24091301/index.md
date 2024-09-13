@@ -1,14 +1,14 @@
 ---
 title: 'サンプル'
-date: 2024-09-11T00:01:55+09:00
+date: 2024-09-13T00:01:55+09:00
 categories:
-- hugo
-- PaperMod
+- categorie 1
+- categorie 2
 tags:
-- sample
+- tag 1
 - tag 2
 description: ""
-weight: 1 # 1 means pin the article, sort articles according to this number
+weight:  # 1 means pin the article, sort articles according to this number
 draft: false # draft or not
 showToc: true # show contents
 TocOpen: false # open contents automantically
