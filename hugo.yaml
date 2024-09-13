@@ -1,6 +1,6 @@
 baseURL: "https://blog-izmn.hu-tao.work/"
 languageCode: ja-jp
-title: いずもんのひとりごと
+title: IZ Logue
 hasCJKLanguage: true
 # pagination.pagerSize: 5
 theme: PaperMod
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: いずもんのひとりごと
-  description: "いずもんのひとりごと"
+  title: IZ Logue
+  description: "IZ Logue"
   keywords: [Blog, Portfolio, PaperMod]
   author: いずもん
   # author: ["Me", "You"] # multiple authors
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "いずもんのひとりごと"
+    text: "IZ Logue"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "いずろーぐ"
+    Content: = Izmn + Monologue - mono
 
   socialIcons:
     - name: x

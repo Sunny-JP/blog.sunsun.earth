@@ -8,6 +8,19 @@ body {
   max-height: 40rem;
 }
 
+:root {
+    --theme: rgb(255, 255, 255);
+    --entry: rgb(245, 245, 245);
+    --primary: rgb(30, 30, 30);
+    --secondary: rgb(108, 108, 108);
+    --tertiary: rgb(214, 214, 214);
+    --content: rgb(31, 31, 31);
+    --code-block-bg: rgb(28, 29, 33);
+    --code-bg: rgb(245, 245, 245);
+    --border: rgb(238, 238, 238);
+    --table-border: rgb(31, 31, 31);
+}
+
 .dark {
   --theme: rgb(0,0,0);
   --entry: rgb(29, 30, 32);
@@ -18,4 +31,25 @@ body {
   --code-block-bg: rgb(29, 30, 32);
   --code-bg: rgb(29, 30, 32);
   --border: rgb(20, 20, 20);
+  --table-border: rgb(196, 196, 197);
+}
+
+.list {
+  background: var(--theme);
+}
+
+.dark.list {
+  background: var(--theme);
+}
+
+.first-entry {
+  min-height: 160px;
+}
+
+.post-content table th,
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    min-width: 10px;
+    padding: 8px 5px;
+    line-height: 1.1;
+    border: 1px solid var(--table-border);
 }
