@@ -66,7 +66,9 @@ This is `inline`.
 >>> This is Blockquotes
 
 ### 参照
-:link:[リンク](https://www.sunsun.earth/ "リンクだよ")です
+:link:[リンク](https://www.sunsun.earth/ "リンクだよ")です  
+こちらから{{< download url="./01.png" filename="サンプルファイル"/>}}をDL  
+:link:[参考](https://isqua.github.io/hugo-shortcodes/links/dowload/)
 
 ### 絵文字
 :smile::smiley_cat:  
