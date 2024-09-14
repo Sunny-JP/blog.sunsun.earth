@@ -130,7 +130,7 @@ menu:
       url: /tags/
       weight: 20
     - identifier: archives
-      name: 月別
+      name: 一覧
       url: /archives/
       weight: 25
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
