@@ -53,3 +53,63 @@ body {
     line-height: 1.1;
     border: 1px solid var(--table-border);
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    line-height: 1;
+}
+
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6,
+.post-content p {
+    margin: 10px 0;
+}
+
+.post-content h1 {
+    margin: 30px auto 0px;
+    font-size: 1.8em;
+}
+
+.post-content h2 {
+    margin: 30px auto 0px;
+    font-size: 1.5em;
+}
+
+.post-content h3 {
+    margin: 20px auto 10px;
+    font-size: 1.3em;
+}
+
+.post-content h4 {
+    margin: 15px auto 10px;
+    font-size: 1.0em;
+}
+
+.post-content h5 {
+    font-size: 0.8em;
+}
+
+.post-content h6 {
+    font-size: 0.6em;
+}
+
+.post-content ul,
+.post-content ol {
+    margin-bottom: 0;
+}
+
+.post-content li {
+    margin-top: 2px;
+}
+
+.post-content blockquote {
+  margin: 10px 0;
+  padding: 0 10px;
+  border-inline-start: 3px solid var(--primary);
+}

@@ -24,6 +24,7 @@ cover:
 
     hugo server --cleanDestinationDir
 
+# Sample Page
 ## 1. はじめに
 　windowsでコンピューターの世界が広がります。1234567890  
 　あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。  
@@ -48,7 +49,6 @@ This is `inline`.
 - text
     - test
     - test
-
 1. 1番目
     1. 3番目
 1. 2番目
@@ -66,9 +66,17 @@ This is `inline`.
 >>> This is Blockquotes
 
 ### 参照
-:link:[リンク](https://www.sunsun.earth/ "リンクだよ")です  
-こちらから{{< download url="./01.png" filename="サンプルファイル"/>}}をDL  
-:link:[参考](https://isqua.github.io/hugo-shortcodes/links/dowload/)
+:link:[リンク](https://www.sunsun.earth/ "リンクだよ")です
+
+### ショートコード
+#### ダウンロードリンク
+こちらから{{< download url="./01.png" filename="サンプルファイル"/>}}をDL :link:[参考](https://isqua.github.io/hugo-shortcodes/links/dowload/)
+#### Instagram
+{{< instagram C988Njpq-7g >}}
+#### Twitter
+{{< twitter user="Genshin_7" id="1812698888756928931" >}}
+#### YouTube
+{{< youtube jtpX8a8G3q0 >}}
 
 ### 絵文字
 :smile::smiley_cat:  
