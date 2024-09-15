@@ -11,20 +11,141 @@
     </image>
     <generator>Hugo -- 0.134.1</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 13 Sep 2024 18:26:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 14:25:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>サンプル</title>
-      <link>http://localhost:1313/posts/24091301/</link>
-      <pubDate>Fri, 13 Sep 2024 18:26:35 +0900</pubDate>
-      <guid>http://localhost:1313/posts/24091301/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;hugo server --cleanDestinationDir
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;sample-page&#34;&gt;Sample Page&lt;/h1&gt;
-&lt;h2 id=&#34;1-はじめに&#34;&gt;1. はじめに&lt;/h2&gt;
-&lt;p&gt;　windowsでコンピューターの世界が広がります。1234567890&lt;br&gt;
-　あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。&lt;br&gt;
-―――宮沢賢治『ポラーノの広場』より―――&lt;/p&gt;</description>
+      <title>プロフィール</title>
+      <link>http://localhost:1313/posts/24091300/</link>
+      <pubDate>Fri, 13 Sep 2024 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091300/</guid>
+      <description>&lt;h2 id=&#34;プロフィール&#34;&gt;プロフィール&lt;/h2&gt;
+&lt;p&gt;　出雲在住のオタクです。&lt;/p&gt;
+&lt;h2 id=&#34;リンク集&#34;&gt;リンク集&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;https://x.com/s_kaziko&#34;&gt;@s_kaziko&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/sunny.izm/&#34;&gt;@sunny.izm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bluesky: &lt;a href=&#34;https://bsky.app/profile/sunsun.earth&#34;&gt;@sunsun.earth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;misskey: &lt;a href=&#34;https://misskey.io/@s_kaziko&#34;&gt;@s_kaziko@misskey.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/Sunny-JP&#34;&gt;Sunny-JP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;公式サイト: &lt;a href=&#34;https://sunsun.earth/&#34;&gt;sunsun.earth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ゲームプロフィール: &lt;a href=&#34;https://game.hu-tao.work/&#34;&gt;game.hu-tao.work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;質問箱: &lt;a href=&#34;https://peing.net/ja/s_kaziko&#34;&gt;peing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>SHIMASTAR</title>
+      <link>http://localhost:1313/posts/24091506/</link>
+      <pubDate>Sun, 15 Sep 2024 14:25:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091506/</guid>
+      <description>&lt;h2 id=&#34;1-概要&#34;&gt;1. 概要&lt;/h2&gt;
+&lt;p&gt;　島根大学に関連する情報へ簡単にアクセスできる，島根大学生向け非公式ポータルアプリです。
+
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091506/01_hu12665357817563410656.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;01.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/pi</description>
+    </item>
+    <item>
+      <title>山陰新幹線のご提案</title>
+      <link>http://localhost:1313/posts/24091505/</link>
+      <pubDate>Sun, 15 Sep 2024 14:20:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091505/</guid>
+      <description>&lt;h2 id=&#34;空想山陰本線&#34;&gt;空想山陰本線&lt;/h2&gt;
+&lt;p&gt;
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091505/n_hu16110327030408812248.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;n.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/picture&gt;
+
+山陰に住んでいる民として理想を詰め込んで作ってみた。&lt;/p&gt;
+&lt;h2 id=&#34;時刻表&#34;&gt;時刻表&lt;/h2&gt;
+&lt;h5 id=&#34;下り&#34;&gt;下り&lt;/h5&gt;
+&lt;p&gt;
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091505/kudari_1_hu7399270644711916266.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;kudari_1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/pi</description>
+    </item>
+    <item>
+      <title>山陰本線のご提案</title>
+      <link>http://localhost:1313/posts/24091504/</link>
+      <pubDate>Sun, 15 Sep 2024 14:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091504/</guid>
+      <description>&lt;h2 id=&#34;空想山陰本線&#34;&gt;空想山陰本線&lt;/h2&gt;
+&lt;p&gt;普段使いをしている民として思っていることを詰め込んで作ってみた。&lt;/p&gt;
+&lt;h2 id=&#34;時刻表&#34;&gt;時刻表&lt;/h2&gt;
+&lt;h5 id=&#34;下り&#34;&gt;下り&lt;/h5&gt;
+&lt;p&gt;
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091504/sanin_down_1_hu18110739198269718115.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;sanin_down_1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/pi</description>
+    </item>
+    <item>
+      <title>しまね交通機関ナビ</title>
+      <link>http://localhost:1313/posts/24091503/</link>
+      <pubDate>Sun, 15 Sep 2024 14:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091503/</guid>
+      <description>&lt;h2 id=&#34;1-概要&#34;&gt;1. 概要&lt;/h2&gt;
+&lt;p&gt;　バス・鉄道の運行情報を集約したサイトです。
+
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091503/01_hu9549853021911084265.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;01.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/picture&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;2-使い方&#34;&gt;2. 使い方&lt;/h2&gt;
+&lt;p&gt;　サイトページへアクセスし，画面の指示に従ってご使用ください。ブックマーク・ホーム画面に追加等しておくと便利です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>簡易測量計算機</title>
+      <link>http://localhost:1313/posts/24091502/</link>
+      <pubDate>Sun, 15 Sep 2024 14:05:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091502/</guid>
+      <description>&lt;h2 id=&#34;1-概要&#34;&gt;1. 概要&lt;/h2&gt;
+&lt;p&gt;　測量時における歩測の計算や偏角補正などを楽に行える地学科向けツールです。
+
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091502/01_hu9061545963253915578.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;01.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/pi</description>
+    </item>
+    <item>
+      <title>履修Checker</title>
+      <link>http://localhost:1313/posts/24091501/</link>
+      <pubDate>Sun, 15 Sep 2024 14:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091501/</guid>
+      <description>&lt;h2 id=&#34;1-概要&#34;&gt;1. 概要&lt;/h2&gt;
+&lt;p&gt;　履修状況を簡単に確認できる島大総理生専用ツールです。&lt;/p&gt;
+&lt;h5 id=&#34;ver2022&#34;&gt;ver.2022&lt;/h5&gt;
+&lt;p&gt;
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091501/01_hu16063832381365081806.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;01.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/picture&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;ver2024&#34;&gt;ver.2024&lt;/h5&gt;
+&lt;p&gt;
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091501/02_hu7700436777110609440.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;02.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/pi</description>
+    </item>
+    <item>
+      <title>利用規約</title>
+      <link>http://localhost:1313/posts/24091500/</link>
+      <pubDate>Sun, 15 Sep 2024 13:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091500/</guid>
+      <description>&lt;h2 id=&#34;フリーソフト利用規約&#34;&gt;フリーソフト利用規約&lt;/h2&gt;
+&lt;p&gt;　当サイト管理人（以下「管理人」といいます）が，管理人のウェブサイトにて公開しているプログラム等を利用する方（以下「利用者」といいます）に，本利用規約が適用されます。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

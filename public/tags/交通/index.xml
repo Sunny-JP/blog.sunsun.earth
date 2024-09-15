@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>交通 on IZ Logue</title>
+    <link>http://localhost:1313/tags/%E4%BA%A4%E9%80%9A/</link>
+    <description>Recent content in 交通 on IZ Logue</description>
+    <image>
+      <title>IZ Logue</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 15 Sep 2024 14:20:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%BA%A4%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>山陰新幹線のご提案</title>
+      <link>http://localhost:1313/posts/24091505/</link>
+      <pubDate>Sun, 15 Sep 2024 14:20:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091505/</guid>
+      <description>&lt;h2 id=&#34;空想山陰本線&#34;&gt;空想山陰本線&lt;/h2&gt;
+&lt;p&gt;
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091505/n_hu16110327030408812248.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;n.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/picture&gt;
+
+山陰に住んでいる民として理想を詰め込んで作ってみた。&lt;/p&gt;
+&lt;h2 id=&#34;時刻表&#34;&gt;時刻表&lt;/h2&gt;
+&lt;h5 id=&#34;下り&#34;&gt;下り&lt;/h5&gt;
+&lt;p&gt;
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091505/kudari_1_hu7399270644711916266.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;kudari_1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/pi</description>
+    </item>
+    <item>
+      <title>山陰本線のご提案</title>
+      <link>http://localhost:1313/posts/24091504/</link>
+      <pubDate>Sun, 15 Sep 2024 14:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091504/</guid>
+      <description>&lt;h2 id=&#34;空想山陰本線&#34;&gt;空想山陰本線&lt;/h2&gt;
+&lt;p&gt;普段使いをしている民として思っていることを詰め込んで作ってみた。&lt;/p&gt;
+&lt;h2 id=&#34;時刻表&#34;&gt;時刻表&lt;/h2&gt;
+&lt;h5 id=&#34;下り&#34;&gt;下り&lt;/h5&gt;
+&lt;p&gt;
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091504/sanin_down_1_hu18110739198269718115.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;sanin_down_1.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/pi</description>
+    </item>
+    <item>
+      <title>しまね交通機関ナビ</title>
+      <link>http://localhost:1313/posts/24091503/</link>
+      <pubDate>Sun, 15 Sep 2024 14:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/24091503/</guid>
+      <description>&lt;h2 id=&#34;1-概要&#34;&gt;1. 概要&lt;/h2&gt;
+&lt;p&gt;　バス・鉄道の運行情報を集約したサイトです。
+
+
+&lt;picture&gt;
+  &lt;source srcset=&#34;http://localhost:1313/posts/24091503/01_hu9549853021911084265.webp&#34; type=&#34;image/webp&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;01.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/picture&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;2-使い方&#34;&gt;2. 使い方&lt;/h2&gt;
+&lt;p&gt;　サイトページへアクセスし，画面の指示に従ってご使用ください。ブックマーク・ホーム画面に追加等しておくと便利です。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

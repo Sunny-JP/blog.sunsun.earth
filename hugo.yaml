@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: IZ Logue
   description: "IZ Logue"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [いずもん, Blog]
   author: いずもん
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -77,18 +77,24 @@ params:
     Content: = Izmn + Monologue - mono
 
   socialIcons:
-    - name: x
+    - name: Twitter
       url: "https://x.com/s_kaziko"
+    - name: instagram
+      url: "https://www.instagram.com/sunny.izm/"
+    - name: bluesky
+      url: "https://bsky.app/profile/sunsun.earth"
+    - name: misskey
+      url: "https://misskey.io/@s_kaziko"
     - name: github
       url: "https://github.com/Sunny-JP"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+#  analytics:
+#    google:
+#      SiteVerificationTag: "XYZabc"
+#    bing:
+#      SiteVerificationTag: "XYZabc"
+#    yandex:
+#      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data

@@ -1,15 +1,12 @@
 ---
 title: 'サンプル'
 date: 2024-09-13T18:26:35+09:00
-categories:
-- hugo
-- PaperMod
 tags:
 - sample1
 - sample2
 description: ""
 weight: # 1 means pin the article, sort articles according to this number
-draft: false # draft or not
+draft: true # draft or not
 showToc: true # show contents
 TocOpen: false # open contents automantically
 hidemeta: false # hide information (author, create date, etc.)
