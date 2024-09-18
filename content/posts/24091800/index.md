@@ -27,7 +27,7 @@ cover:
 
 ## 松江駅↔大学付近の時刻まとめ
 　[しまね交通機関ナビ](https://sunsun.earth/univ/shimanavi/)で公開しているものです。  
-　PDF版は[こちら](timetable202410.pdf)
+　PDF版は[こちら](timetable202410A.pdf)
 ![](timetable202410.png)
 
 ## ご注意
