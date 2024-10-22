@@ -21,7 +21,7 @@ params:
   keywords: [いずもん, Blog]
   author: いずもん
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["snscard.png"]
   DateFormat: "2006年01月02日"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
