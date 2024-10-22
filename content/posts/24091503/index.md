@@ -14,10 +14,10 @@ hidemeta: false # hide information (author, create date, etc.)
 disableShare: true	# do not show share button
 showbreadcrumbs: true # show current path
 cover:
-    image: ""
+    image: "01.png"
     caption: ""
     alt: ""
-    relative: false
+    relative: true
 ---
 
 ## 1. 概要

@@ -13,10 +13,10 @@ hidemeta: false # hide information (author, create date, etc.)
 disableShare: true	# do not show share button
 showbreadcrumbs: true # show current path
 cover:
-    image: ""
+    image: "05.png"
     caption: ""
     alt: ""
-    relative: false
+    relative: true
 ---
 
 ## 学年暦と自分の予定をひとつに
